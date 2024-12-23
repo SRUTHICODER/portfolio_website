@@ -280,6 +280,13 @@ button:focus {
   padding-left: 45px !important;
 }
 
+.heading-description {
+  font-size: 1.5em; 
+  color: white;
+  padding-left: 50px;
+  padding-top: 15px; 
+}
+
 .main-name {
   color: #cd5ff8;
 }
